@@ -4,8 +4,8 @@
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE-/blob/main/img_github/lore_item.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
 		<![endif]-->
 		<picture>
-			<source srcset="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" loading="eager" />
+			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE-/blob/main/img_github/lore_item.png" media="(prefers-color-scheme: dark)">
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE-/blob/main/img_github/lore_item.png" loading="eager" />
 		</picture>
 	</a><br>
 	<b>A highly customisable, Addon Floating Text+ for Minecraft: Bedrock Edition written in Json</b>
