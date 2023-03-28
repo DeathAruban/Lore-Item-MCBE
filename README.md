@@ -8,11 +8,11 @@
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE-/blob/main/img/lore_item.png" loading="eager" />
 		</picture>
 	</a><br>
-	<b>A highly customisable, Addon Floating Text+ for Minecraft: Bedrock Edition written in Json</b>
+	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript (API 1.19.70)</b>
 </p>
 
 <p align="center">
-	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Floating-Text?label=release&sort=semver"></a>
+	<a href="https://github.com/DeathAruban/Lore-Item-MCBE-/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Floating-Text?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Floating-Text/latest/total?sort=semver"></a>
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/-xR-FUy7Jjk?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeathAruban/Floating-Text">
