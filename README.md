@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"></a>
+	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Floating-Text/latest/total?sort=semver"></a>
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/-xR-FUy7Jjk?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeathAruban/Lore-Item-MCBE">
