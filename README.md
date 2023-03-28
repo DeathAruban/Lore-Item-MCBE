@@ -1,11 +1,11 @@
 <p align="center">
      <a href="https://mcpedl.com/floating-text-addon-2/">
 		<!--[if IE]>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item_update.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
 		<![endif]-->
 		<picture>
-			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item.png" loading="eager" />
+			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item_update.png" media="(prefers-color-scheme: dark)">
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item_update.png" loading="eager" />
 		</picture>
 	</a><br>
 	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript (API 1.19.70)</b>
