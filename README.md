@@ -1,7 +1,7 @@
 <p align="center">
      <a href="https://mcpedl.com/floating-text-addon-2/">
 		<!--[if IE]>
-			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE-/blob/main/img_github/lore_item.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
 		<![endif]-->
 		<picture>
 			<source srcset="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" media="(prefers-color-scheme: dark)">
