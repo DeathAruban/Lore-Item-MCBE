@@ -41,13 +41,13 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 ## Support for minecraft base Server and Realms
 
-| Server/Realms MCBE | Supported   | FL+ Summon | FL+ Item | FL+ Menu |
-| ------- | ------------------   | ------- | ------- | ------- |    
-| 1.19.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.17.x   |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| < 1.15.x   | :x:               | :x: | :x: | :x: | 
+| Server/Realms MCBE | Supported   |
+| ------- | ------------------   |  
+| 1.19.60   | :x: |   
+| 1.18.x   | :x:  | 
+| 1.17.x   |  :x: |
+| 1.16.x   | :x:  |
+| < 1.15.x   | :x: |
 
 ## Suppport device for minecraft bedrock edition
 
