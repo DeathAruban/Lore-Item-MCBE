@@ -36,9 +36,9 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 ## Support for minecraft Beta/Preview
 
-| Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
-| ------- | ------------------   | ------- | ------- | ------- |
-| 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :x: |  
+| Version MCBE Beta| Supported   | 
+| ------- | ------------------   | 
+| 1.20.x   | :white_check_mark:  | 
 
 ## Support for minecraft base Server and Realms
 
@@ -52,14 +52,14 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 ## Suppport device for minecraft bedrock edition
 
-| Device | Supported   | FL+ Summon | FL+ Item | FL+ Menu |
-| ------- | ------------------   | ------- | ------- | ------- |    
-| Android  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| Ios  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| windows 10/11  |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| PS4/PS5  | :white_check_mark: | :x: | :x: | :x: |   
-| Xbox x/s   | :white_check_mark: | :x: | :x: | :x: | 
-| Switch | :white_check_mark:  | :x: | :x: | :x: | 
+| Device | Supported   |
+| ------- | ------------------   |
+| Android  | :white_check_mark:  |
+| Ios  | :white_check_mark:  |
+| windows 10/11  |  :white_check_mark: |
+| PS4/PS5  | :white_check_mark: |
+| Xbox x/s   | :white_check_mark: |
+| Switch | :white_check_mark:  |
 
 # How does it work
 ## Lore Item+ 
