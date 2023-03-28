@@ -25,13 +25,14 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 ## Support for minecraft base worlds
 
-| Version MCBE| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
-| ------- | ------------------   | ------- | ------- | ------- |  
-| 1.19.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.17.x   |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| < 1.15.x   | :x:               | :x: | :x: | :x: | 
+| World MCBE | Supported   |
+| ------- | ------------------   |  
+| 1.19.60   |:white_check_mark: |   
+| 1.18.x   | :x:  | 
+| 1.17.x   |  :x: |
+| 1.16.x   | :x:  |
+| < 1.15.x   | :x: |
+
 
 ## Support for minecraft Beta/Preview
 
@@ -43,7 +44,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | Server/Realms MCBE | Supported   |
 | ------- | ------------------   |  
-| 1.19.60   | :x: |   
+| 1.19.60   |:white_check_mark: |   
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
@@ -61,33 +62,9 @@ Before proceeding check the affected version of floating text if it is compatibl
 | Switch | :white_check_mark:  | :x: | :x: | :x: | 
 
 # How does it work
-## Floating Text+ (summon)
-To use the summoned version, just run in chat
+## Lore Item+ 
+how to activate custom lore item, just run in chat
 
 ```bash
- /summon da:floating_text
+ /function lore
 ```
-to eliminate the floating text do
-```bash
- /kill @e[type:da:floating_text,r=1] ~ ~ ~
-```
-
-## Floating Text+ (Item)
-
-Just switch the game mode to Creative and search your inventory.
-
-<picture>
-			<source srcset="https://github.com/DeathAruban/Floating-Text/blob/main/Texture/textures/items/floating_text.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/Texture/textures/items/floating_text.png" loading="eager" />
-		</picture>
-
-</p>
-
-to give it a name, just insert it into the anvil and rename it.
-</a>
-to eliminate the floating text do
-
-```bash
- /kill @e[type:da:floating_text,r=1] ~ ~ ~
-```
-## Floating Text+ (Menu)
