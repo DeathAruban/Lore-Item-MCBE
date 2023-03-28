@@ -1,0 +1,60 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"DeathAruban"
+		],
+		"generated_with": {
+			"arucube": ["1.0.0"],
+			"dash": ["1.0.0"]
+		}
+	},
+	"header": {
+		"name": "§bLore §fItem §a+",
+		"description": "Plugin that allows you to change the name of the object and its lore, to allow for maximum customization",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "5155f4aa-7bfd-4668-801e-b6e8a65d84b5",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "22b0d6db-e772-4cf3-bc94-59d2a45514b4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "nothing",
+			"name": "§6Disable if using custom ui and unicode",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "custom_ui",
+			"name": "§aActive texture custom ui server e unicode",
+			"memory_tier": 1
+		 }
+	],
+	"dependencies": [
+		{
+			"uuid": "3577146b-7d11-448e-a9a8-c67b085f6dcc",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

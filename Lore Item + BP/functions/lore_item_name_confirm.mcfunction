@@ -1,0 +1,2 @@
+tellraw @s[tag=loreItemUi] {"rawtext":[{"text":"\n§6-------------------------\n §6§l"},{"selector":"@s"},{"text":" \n\u00a7\u0072\u00a7\u0032\u0049\u0074\u0065\u006d\u0020\u0073\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006c\u006c\u0079\u0020\u006d\u006f\u0064\u0069\u0066\u0069\u0065\u0064\u0021\n§6-------------------------"}]}
+playsound bubble.pop @s[tag=loreItemUi] ~ ~ ~ 3 1 3
