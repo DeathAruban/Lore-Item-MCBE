@@ -1,0 +1,54 @@
+﻿avviso.lore.mc.da=§b Lore Item+ §aActivo
+avviso.disattivato.lore.mc.da=§r§c¡Edición de Lore de objeto desactivada!
+avviso.attivato.lore.mc.da=§r§a¡Has entrado en el modo de edición de Lore!
+avviso.modifica.lore.mc.da=§r§a¡Objeto modificado con éxito!
+avviso.modifica1.lore.mc.da=§r§a¡Objeto modificado con éxito! §c-1XP
+
+item.da:lore_ui_admin=§cAdmin Lore UI
+item.da:lore_ui_vanilla=§aAventura Lore UI
+
+text.tag.noperm= §6No tienes los permisos necesarios para usar §cAdmin Lore Ui
+lore.item.exp.use.da= §6No tienes la cantidad de XP necesaria para modificar. Necesitas al menos §c2XP
+
+pack.name=§bLore §fItem §a+
+pack.description=Plugin que permite modificar el nombre y la descripción de los objetos para una máxima personalización.
+
+text.title.lore.home.admin=§fMenú Principal de Lore
+text.description.lore.home.admin=§bBienvenido
+text.regole.lore.home.admin= Reglas
+text.crediti.lore.home.admin= Créditos
+text.edit.lore.home.admin= Editar
+
+text.title.lore.regole.admin=§fReglas de Lore +
+text.text1.lore.regole.admin=1) La modalidad de administrador admite 10,000 palabras.
+text.text1.lore.regole.vanilla=1) La modalidad de aventura admite 100 palabras.
+text.text2.lore.regole.admin=2) Para modificar, haz clic en "editar".
+text.text3.lore.regole.admin=3) En el menú de edición, puedes modificar tanto el nombre como la descripción del objeto.
+text.text7.lore.regole.admin=Lore y nombre del objeto.
+text.text4.lore.regole.admin=§c4) Queda prohibido modificar el paquete.
+text.text5.lore.regole.admin=§c5) Distribuirlo atribuyéndote méritos.
+text.text6.lore.regole.admin=§a6) Para su uso público, dar créditos.
+text.text11.lore.regole.vanilla=7) 1 XP para confirmar la modificación.
+
+text.text7.lore.crediti.admin=Créditos creador de Lore Item +
+text.text8.lore.crediti.admin=Gracias por utilizar mi componente.
+text.text9.lore.crediti.admin=Me presento, soy §bDeath_Aruban§f.
+text.text10.lore.crediti.admin=Soy un programador y diseñador gráfico.
+text.text11.lore.crediti.admin=Para ver otros proyectos míos, visita:
+text.text12.lore.crediti.admin=§fGitHub §aMCPDL §cYouTube
+text.text13.lore.crediti.admin=§aInstagram §bTwitter §dDiscord
+
+text.text11.lore.esci.admin=¿Terminaste la edición del Lore?
+text.text12.lore.esci.admin=Si has terminado de
+text.text13.lore.esci.admin=modificar tus objetos,
+text.text14.lore.esci.admin=haz clic en el botón de abajo
+text.text15.lore.esci.admin=para salir del modo
+
+text.text14.lore.modifica.admin=Menú de edición de nombre y descripción
+text.title15.lore.modifica.admin=Para enviar el texto hacia abajo,
+text.title19.lore.modifica.admin=usa (§c-n§f) o presiona la tecla
+text.title16.lore.modifica.admin=Enter dos veces
+text.title17.lore.modifica.admin=para enviar el texto hacia abajo.
+
+text.name.lore.edit.modifica=Nombre
+text.lore.lore.edit.modifica=Descripción

@@ -1,0 +1,56 @@
+﻿avviso.lore.mc.da=§b Lore Item+ §aActivé
+avviso.disattivato.lore.mc.da=§r§cModification de lore d'objet désactivée !
+avviso.attivato.lore.mc.da=§r§aVous êtes entré en mode modification de lore.
+avviso.modifica.lore.mc.da=§r§aObjet modifié avec succès !
+avviso.modifica1.lore.mc.da=§r§aObjet modifié avec succès ! §c-1XP
+
+item.da:lore_ui_admin=§cAdmin Lore UI
+item.da:lore_ui_vanilla=§aAventure Lore UI
+
+text.tag.noperm= §6Vous n'avez pas les permissions nécessaires pour utiliser §cAdmin Lore Ui
+lore.item.exp.use.da= §6Vous n'avez pas assez d'XP pour effectuer cette modification, vous devez avoir au moins §c2XP
+
+pack.name=§bLore §fItem §a+
+pack.description=Plugin qui permet de modifier le nom de l'objet et son lore, pour permettre une personnalisation maximale.
+
+text.title.lore.home.admin=§fMenu Principal Lore
+text.description.lore.home.admin= §bBienvenue
+text.regole.lore.home.admin= Règles
+text.crediti.lore.home.admin=Crédits
+text.edit.lore.home.admin= Modifier
+
+text.title.lore.regole.admin=§fRègles Lore +
+text.text1.lore.regole.admin=1) Le mode admin prend en charge 10 000 mots.
+text.text1.lore.regole.vanilla=1) Le mode aventure prend en charge 100 mots.
+text.text2.lore.regole.admin=2) Pour modifier, cliquez sur Modifier.
+text.text3.lore.regole.admin=3) Dans le menu Modifier, vous pouvez modifier à la fois
+text.text7.lore.regole.admin=la lore et le nom de l'objet.
+text.text4.lore.regole.admin=§c4) Interdiction de modifier le pack.
+text.text5.lore.regole.admin=§c5) Distribuez en obtenant des mérites.
+text.text6.lore.regole.admin=§a6) Pour une utilisation éventuelle en public, donner des crédits.
+text.text11.lore.regole.vanilla=7) 1 XP pour confirmer la modification.
+
+text.text7.lore.crediti.admin=Créateur de crédits Lore Item +
+text.text8.lore.crediti.admin=Merci d'utiliser mon composant.
+text.text9.lore.crediti.admin=Je me présente, je suis §bDeath_Aruban§f.
+text.text10.lore.crediti.admin=Je suis programmeur et graphiste.
+text.text11.lore.crediti.admin=Pour voir mes autres projets, visitez
+text.text12.lore.crediti.admin=§fGitHub §aMCPDL §cYouTube
+text.text13.lore.crediti.admin=§aInstagram §bTwitter §dDiscord
+
+text.text11.lore.esci.admin=Fin de la modification de la lore ?
+text.text12.lore.esci.admin=Si vous avez fini de
+text.text13.lore.esci.admin=modifier vos objets,
+text.text14.lore.esci.admin=cliquez sur le bouton ci-dessous
+text.text15.lore.esci.admin=pour sortir du mode
+
+
+text.text14.lore.modifica.admin=Menu de modification du nom et de la description
+text.title15.lore.modifica.admin=Pour envoyer le
+text.title19.lore.modifica.admin=texte vers le bas,
+text.title16.lore.modifica.admin=appuyez sur (§c-n§f) ou utilisez la
+text.title17.lore.modifica.admin=touche Entrée deux fois
+text.title18.lore.modifica.admin=pour envoyer le texte vers le bas.
+
+text.name.lore.edit.modifica=Nom
+text.lore.lore.edit.modifica=Description
