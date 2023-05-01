@@ -66,5 +66,5 @@ Before proceeding check the affected version of floating text if it is compatibl
 how to activate custom lore item, just run in chat
 
 ```bash
- /function lore
+ /tag @s add Admin
 ```
