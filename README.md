@@ -8,7 +8,7 @@
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item_update.png" loading="eager" />
 		</picture>
 	</a><br>
-	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript (API 1.19.70)</b>
+	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript (API 1.19.80)</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | World MCBE | Supported   |
 | ------- | ------------------   |  
-| 1.19.60   |:white_check_mark: |   
+| 1.19.80   |:white_check_mark: |   
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
@@ -44,7 +44,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | Server/Realms MCBE | Supported   |
 | ------- | ------------------   |  
-| 1.19.60   |:white_check_mark: |   
+| 1.19.80   |:white_check_mark: |   
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
