@@ -1,0 +1,56 @@
+avviso.lore.mc.da=§b Lore-Item+ §aAktiv
+avviso.disattivato.lore.mc.da=§r§cLore-Item-Änderungen deaktiviert!
+avviso.attivato.lore.mc.da=§r§aDu bist im Lore-Änderungsmodus
+avviso.modifica.lore.mc.da=§r§aObjekt erfolgreich geändert!
+avviso.modifica1.lore.mc.da=§r§aObjekt erfolgreich geändert! §c-1XP
+
+item.da:lore_ui_admin=§cAdmin-Lore UI
+item.da:lore_ui_vanilla=§aAbenteuer-Lore UI
+
+text.tag.noperm= §6Du hast nicht die erforderlichen Berechtigungen, um §cAdmin-Lore Ui zu verwenden
+lore.item.exp.use.da= §6Du hast nicht genügend XP zum Bearbeiten, du musst mindestens §c2XP haben
+
+pack.name=§bLore-Objekt §f+
+pack.description=Dieses Plugin ermöglicht die Änderung des Namens und der Lore eines Objekts, um maximale Personalisierung zu ermöglichen
+
+text.title.lore.home.admin=§fHauptmenü Lore
+text.description.lore.home.admin= §bWillkommen
+text.regole.lore.home.admin= Regeln
+text.crediti.lore.home.admin=Credits
+text.edit.lore.home.admin= Ändern
+
+text.title.lore.regole.admin=§fLore-Regeln +
+text.text1.lore.regole.admin=1) Admin-Modus unterstützt 10.000 Wörter.
+text.text1.lore.regole.vanilla=1) Abenteuer-Modus unterstützt 100 Wörter.
+text.text2.lore.regole.admin=2) Zum Ändern auf Ändern klicken.
+text.text3.lore.regole.admin=3) Im Änderungsmenü können sowohl der
+text.text7.lore.regole.admin=Lore als auch der Objektname geändert werden.
+text.text4.lore.regole.admin=§c4) Ändern des Pakets ist verboten.
+text.text5.lore.regole.admin=§c5) Credits für die Leistung sind verboten.
+text.text6.lore.regole.admin=§a6) Für die öffentliche Nutzung bitte Credits angeben.
+text.text11.lore.regole.vanilla=7) 1 XP zum Bestätigen der Änderung.
+
+text.text7.lore.crediti.admin=Lore-Credits +
+text.text8.lore.crediti.admin=Vielen Dank, dass du meine Komponente nutzt.
+text.text9.lore.crediti.admin=Ich bin §bDeath_Aruban§f.
+text.text10.lore.crediti.admin=Ich bin Programmierer und Grafikdesigner.
+text.text11.lore.crediti.admin=Weitere Projekte von mir findest du auf
+text.text12.lore.crediti.admin=§fGitHub §aMCPDL §CYouTube
+text.text13.lore.crediti.admin=§aInstagram §bTwitter §dDiscord
+
+text.text11.lore.esci.admin=Änderungen abgeschlossen?
+text.text12.lore.esci.admin=Wenn du fertig bist mit dem
+text.text13.lore.esci.admin=Ändern deiner Objekte,
+text.text14.lore.esci.admin=klicken Sie auf die Schaltfläche unten
+text.text15.lore.esci.admin=um den Modus zu verlassen
+
+text.text14.lore.modifica.admin=Bearbeitungsmenü
+text.title15.lore.modifica.admin=Um den Text nach unten zu senden,
+text.title19.lore.modifica.admin=Taste drücken
+text.title16.lore.modifica.admin=tun Sie (§c-n§f) oder drücken Sie die Taste
+text.title17.lore.modifica.admin=Zweimal die Eingabetaste drücken,
+text.title18.lore.modifica.admin=um den Text nach unten zu senden.
+
+text.name.lore.edit.modifica=Name
+text.lore.lore.edit.modifica=Lore
+

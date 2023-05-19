@@ -1,0 +1,32 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"DeathAruban"
+		],
+		"generated_with": {
+			"arucube": ["1.0.0"],
+			"dash": ["1.0.0"]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [1,19,50],
+		"uuid": "5155f4aa-7bfd-4668-801e-b6e8a65d84b5",
+		"version": [3,0,0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "22b0d6db-e772-4cf3-bc94-59d2a45514b4",
+			"version": [1,0,0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3577146b-7d11-448e-a9a8-c67b085f6dcc",
+			"version": [2,0,0]
+		}
+	]
+}
