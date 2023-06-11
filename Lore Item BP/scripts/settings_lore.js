@@ -23,9 +23,9 @@ system.events.beforeWatchdogTerminate.subscribe(eventData => {
 	eventData.cancel = true
 })
 
-world.events.playerSpawn.subscribe(data => {
+world.afterEvents.playerSpawn.subscribe(data => {
 	if(!data.initialSpawn) return
-	if(data.player.sendMessage({ rawtext: [ {"\u0074\u0072\u0061\u006E\u0073\u006C\u0061\u0074\u0065":impostazioni.stato.active.lore} ] } ));
+	if(data.player.sendMessage({ rawtext: [ {"translate":impostazioni.stato.active.lore} ] } ));
 })
 
 const impostazioni = {

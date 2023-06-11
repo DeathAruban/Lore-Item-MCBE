@@ -22,10 +22,10 @@ import {impostazioni} from './settings_lore.js'  //import settings lore update
 import {getxp} from './settings_lore.js'     //import system level update
 import './settings_lore.js'
 
-world.events.beforeItemUse.subscribe(ev => {
-    const item = ev.item
-    const player = ev.source
-      if(item.typeId == impostazioni.item.list.staff){
+world.afterEvents.itemUse.subscribe(data => {
+  const itemStack = data.itemStack
+  const player = data.source
+      if(itemStack.typeId == impostazioni.item.list.staff){
         if(player.hasTag(impostazioni.tag.base.admin)){general(player)}
         if(!player.hasTag(impostazioni.tag.base.admin)){
           if(!player.hasTag(impostazioni.tag.base.editor)){
@@ -35,7 +35,7 @@ world.events.beforeItemUse.subscribe(ev => {
         }
         if(player.hasTag(impostazioni.tag.base.editor)){exit_ui(player)}
       }
-      if(item.typeId == impostazioni.item.list.vanilla){
+      if(itemStack.typeId == impostazioni.item.list.vanilla){
         if(!player.hasTag(impostazioni.tag.base.vanilla)){ui_vanilla(player)}
         if(player.hasTag(impostazioni.tag.base.vanilla)){exit_ui_vanilla(player)}
       }
