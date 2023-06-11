@@ -1,4 +1,4 @@
-avviso.lore.mc.da=§b Lore Item+ §aActive.
+avviso.lore.mc.da=§b Lore Item+ §aActive.
 avviso.disattivato.lore.mc.da=§r§cLore item edit mode deactivated.!
 avviso.attivato.lore.mc.da=§r§aYou have entered lore edit mode.
 avviso.modifica.lore.mc.da=§r§aObject modified successfully!
@@ -8,8 +8,8 @@ avviso.modifica1.lore.mc.da=§r§aObject modified successfully! §c-1XP
 item.da:lore_ui_admin=§cAdmin Lore UI
 item.da:lore_ui_vanilla=§aVanilla Lore UI
 
-text.tag.noperm= §6You don't have the necessary permissions to use §cAdmin Lore Ui.
-lore.item.exp.use.da= §6You don't have the necessary XP to modify, you need at least §c2XP.
+text.tag.noperm= §6You don't have the necessary permissions to use §cAdmin Lore Ui.
+lore.item.exp.use.da= §6You don't have the necessary XP to modify, you need at least §c2XP.
 
 pack.name=§bLore §fItem §a+
 pack.description=Plugin that allows you to modify the name of the object and its lore, to enable maximum customization.

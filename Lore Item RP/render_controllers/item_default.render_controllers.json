@@ -15,24 +15,18 @@
 //-----------------------------------------------------------------------------------------------------------------------//
 {
 	"format_version": "1.8.0",
-	"animations": {
-		"animation.player.lore_ui_vanilla.first_person": {
-			"loop": true,
-			"bones": {
-				"rightitem": {
-					"rotation": ["c.is_first_person ? 150 : 0", "c.is_first_person ? 0 : 0", "c.is_first_person ? 55 : 0"],
-					"position": [" c.is_first_person ? 5.0 : 0", "c.is_first_person ? 4.5 : 0", "c.is_first_person ? 0 : 0"]
+	"render_controllers": {
+		"controller.render.lore_ui_vanilla": {
+			"geometry": "geometry.default",
+			"materials": [
+				{
+					"*": "variable.is_enchanted ? material.enchanted : material.default"
 				}
-			}
-		},
-		"animation.player.lore_ui_vanilla": {
-			"loop": true,
-			"bones": {
-				"rightitem": {
-					"rotation": [90, 0, 90],
-					"position": [0, -1, 3]
-				}
-			}
+			],
+			"textures": [
+				"texture.default",
+				"texture.enchanted"
+			]
 		}
 	}
 }

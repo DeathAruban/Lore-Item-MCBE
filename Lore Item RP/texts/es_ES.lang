@@ -1,4 +1,4 @@
-﻿avviso.lore.mc.da=§b Lore Item+ §aActivo
+﻿avviso.lore.mc.da=§b Lore Item+ §aActivo
 avviso.disattivato.lore.mc.da=§r§c¡Edición de Lore de objeto desactivada!
 avviso.attivato.lore.mc.da=§r§a¡Has entrado en el modo de edición de Lore!
 avviso.modifica.lore.mc.da=§r§a¡Objeto modificado con éxito!
@@ -7,8 +7,8 @@ avviso.modifica1.lore.mc.da=§r§a¡Objeto modificado con éxito! §c-1XP
 item.da:lore_ui_admin=§cAdmin Lore UI
 item.da:lore_ui_vanilla=§aAventura Lore UI
 
-text.tag.noperm= §6No tienes los permisos necesarios para usar §cAdmin Lore Ui
-lore.item.exp.use.da= §6No tienes la cantidad de XP necesaria para modificar. Necesitas al menos §c2XP
+text.tag.noperm= §6No tienes los permisos necesarios para usar §cAdmin Lore Ui
+lore.item.exp.use.da= §6No tienes la cantidad de XP necesaria para modificar. Necesitas al menos §c2XP
 
 pack.name=§bLore §fItem §a+
 pack.description=Plugin que permite modificar el nombre y la descripción de los objetos para una máxima personalización.

@@ -1,4 +1,4 @@
-avviso.lore.mc.da=§b Lore Item+ §aAttivo
+avviso.lore.mc.da=§b Lore Item+ §aAttivo
 avviso.disattivato.lore.mc.da=§r§cLore Modifica item disattivata!
 avviso.attivato.lore.mc.da=§r§aSei entrato nella modalità modifica lore
 avviso.modifica.lore.mc.da=§r§aOggetto modificato con successo!
@@ -8,8 +8,8 @@ avviso.modifica1.lore.mc.da=§r§aOggetto modificato con successo! §c-1XP
 item.da:lore_ui_admin=§cAdmin Lore UI
 item.da:lore_ui_vanilla=§aAvventura Lore UI
 
-text.tag.noperm= §6Non possiedi i permessi necessari per usare §cAdmin Lore Ui
-lore.item.exp.use.da= §6Non possiedi XP necessari per modificare,devi avere almeno §c2XP
+text.tag.noperm= §6Non possiedi i permessi necessari per usare §cAdmin Lore Ui
+lore.item.exp.use.da= §6Non possiedi XP necessari per modificare,devi avere almeno §c2XP
 
 pack.name=§bLore §fItem §a+
 pack.description=Plugin che permette di modificare il nome dell'oggetto e la sua lore, per consentire la massima personalizzazione
@@ -36,7 +36,7 @@ text.text8.lore.crediti.admin=Grazie di utilizzare il mio componente.
 text.text9.lore.crediti.admin=Mi Presento sono §bDeath_Aruban§f.
 text.text10.lore.crediti.admin=Sono un programmatore e grafico.
 text.text11.lore.crediti.admin=Per vedere altri miei progetti visita
-text.text12.lore.crediti.admin=§fGitHub §aMCPDL §CYouTube
+text.text12.lore.crediti.admin=§fGitHub §aMCPEDL §CYouTube
 text.text13.lore.crediti.admin=§aInstagram §bTwitter §dDiscord
 
 
