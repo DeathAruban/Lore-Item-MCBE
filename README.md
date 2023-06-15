@@ -27,7 +27,8 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | World MCBE | Supported   |
 | ------- | ------------------   |  
-| 1.19.80   |:white_check_mark: |   
+| 1.20.x   |:white_check_mark: | 
+| 1.19.80   |:x: |   
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
@@ -44,7 +45,8 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | Server/Realms MCBE | Supported   |
 | ------- | ------------------   |  
-| 1.19.80   |:white_check_mark: |   
+| 1.20.x   |:white_check_mark: |
+| 1.19.80   |:x: |   
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
