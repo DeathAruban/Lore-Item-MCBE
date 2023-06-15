@@ -34,13 +34,6 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.16.x   | :x:  |
 | < 1.15.x   | :x: |
 
-
-## Support for minecraft Beta/Preview
-
-| Version MCBE Beta| Supported   | 
-| ------- | ------------------   | 
-| 1.20.x   | :white_check_mark:  | 
-
 ## Support for minecraft base Server and Realms
 
 | Server/Realms MCBE | Supported   |
