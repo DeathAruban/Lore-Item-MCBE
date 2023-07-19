@@ -12,9 +12,9 @@
 	"header": {
 		"name": "pack.name",
 		"description": "pack.description",
-		"min_engine_version": [1,19,50],
+		"min_engine_version": [1,20,10],
 		"uuid": "5155f4aa-7bfd-4668-801e-b6e8a65d84b5",
-		"version": [2,0,0]
+		"version": [2,0,3]
 	},
 	"modules": [
 		{
@@ -26,7 +26,7 @@
 	"dependencies": [
 		{
 			"uuid": "3577146b-7d11-448e-a9a8-c67b085f6dcc",
-			"version": [2,0,0]
+			"version": [2,0,3]
 		}
 	]
 }
