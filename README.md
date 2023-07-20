@@ -23,7 +23,6 @@ Go to settings/touch/sneak toggle
 <p align="center">
      <a>
 		<picture>
-			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" media="(prefers-color-scheme: dark)">
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" loading="eager" />
 		</picture>
 	</a><br>
