@@ -10,7 +10,7 @@
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/-xR-FUy7Jjk?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeathAruban/Lore-Item-MCBE">
 <img alt="PingPong status" src="https://img.shields.io/pingpong/status/sp_7b7ce509b36c47ee9b20d041d018dc0a">
-<img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
+<img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Floating-Text">
 </p>
 
 # Description
