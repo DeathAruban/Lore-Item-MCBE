@@ -108,7 +108,7 @@ click the button to exit edit mode
 ## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_3.png" loading="eager" />
 
-# For more info visit my discord or watch the video guide on my channel
+## For more info visit my discord or watch the video guide on my channel
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
 - 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=hUQVg2-KCas&t=53s)
 
