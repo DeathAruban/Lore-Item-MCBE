@@ -1,8 +1,5 @@
 <p align="center">
      <a href="https://mcpedl.com/floating-text-addon-2/">
-		<!--[if IE]>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" alt="FLoating Text Logo" title="Floating" loading="eager" />
-		<![endif]-->
 		<picture>
 			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" media="(prefers-color-scheme: dark)">
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
@@ -20,8 +17,17 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
 </p>
 
-## Warning
-Before proceeding check the affected version of floating text if it is compatible with Minecraft Bedrock
+<p align="center">
+     <a>
+		<picture>
+			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" media="(prefers-color-scheme: dark)">
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" loading="eager" />
+		</picture>
+	</a><br>
+</p>
+
+
+
 
 ## Support for minecraft base worlds
 
@@ -33,28 +39,6 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
 | < 1.15.x   | :x: |
-
-## Support for minecraft base Server and Realms
-
-| Server/Realms MCBE | Supported   |
-| ------- | ------------------   |  
-| 1.20.x   |:white_check_mark: |
-| 1.19.80   |:x: |   
-| 1.18.x   | :x:  | 
-| 1.17.x   |  :x: |
-| 1.16.x   | :x:  |
-| < 1.15.x   | :x: |
-
-## Suppport device for minecraft bedrock edition
-
-| Device | Supported   |
-| ------- | ------------------   |
-| Android  | :white_check_mark:  |
-| Ios  | :white_check_mark:  |
-| windows 10/11  |  :white_check_mark: |
-| PS4/PS5  | :white_check_mark: |
-| Xbox x/s   | :white_check_mark: |
-| Switch | :white_check_mark:  |
 
 # How does it work
 ## Lore Item+ 
