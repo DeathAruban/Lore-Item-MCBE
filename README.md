@@ -147,6 +147,12 @@ click the button to 🔙 exit edit mode
 
 ## Thank you for choosing this component and to appreciate how it works 😄
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 
 
