@@ -82,9 +82,9 @@ Go to settings/touch/sneak toggle
 ```
 
 ## To use item right click or hold down on the screen, find three options :
-- Edit
-- Rules
-- Credits
+- ✏️ Edit
+- 📖 Rules
+- ⭐ Credits
 
 ## To enable edit mode click the pencil button, you will be notified by a sound and a message that edit mode has been enabled.
 
@@ -94,6 +94,9 @@ Go to settings/touch/sneak toggle
 ## To modify an object you must take it to the main inventory in one of the nine slots, once done press the button to crouch
 On the right side you can enter the name of the item and its lore, once you have completed you can click on the confirmation button.
 If you use the vanilla item remember that every time you modify an item you pay 2XP.
+to send the text down you can use two options, -n or press the key twice to wrap the text.
+you can obviously use the color customization use § and then the color that corresponds, complete guide on this link : [Click](https://www.digminecraft.com/lists/color_list_pc.php)
+
 
 ## a similar ui should appear
 
@@ -104,6 +107,10 @@ click the button to exit edit mode
 
 ## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_3.png" loading="eager" />
+
+# For more info visit my discord or watch the video guide on my channel
+- ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
+- 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=hUQVg2-KCas&t=53s)
 
 
 
