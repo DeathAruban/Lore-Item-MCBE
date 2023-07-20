@@ -99,7 +99,7 @@ click the button to 🔙 exit edit mode
 
 # How to install
 
-## 🖥️ Pc 
+## 🖥️ Computer
 
 📁.mcaddon version
 - Download the lore_item.mcaddon version
