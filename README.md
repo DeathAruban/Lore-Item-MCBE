@@ -81,5 +81,12 @@ Go to settings/touch/sneak toggle
  /xp 2L @s
 ```
 
+# To use item right click or hold down on the screen, A similar ui will appear ,find three options :
+## Edit
+## Rules
+## Credits
+
+<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_1.png" loading="eager" />
+
 
 
