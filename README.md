@@ -58,7 +58,8 @@ Go to settings/touch/sneak toggle
 		</picture>
 	</a><br>
 </p>
-##Admin
+
+## Admin
 - supports 10,000 words
 - indestructible
 - He has no ability to break blocks
@@ -68,8 +69,7 @@ Go to settings/touch/sneak toggle
  /tag @s add Admin
 ```
 
-
-##Vanilla
+## Vanilla
 - supports 100 words
 - Maximum durability of a netherite pickaxe
 - it can destroy almost all blocks at a good speed
