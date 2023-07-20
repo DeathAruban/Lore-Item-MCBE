@@ -110,7 +110,10 @@ click the button to 🔙 exit edit mode
 - click on it to open and it will automatically insert it into the game
 - 
 📦.zip version
-- go to %userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\
+- go to 
+ ```bash
+%userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\
+```
 - pull the texture into the resources folder instead the behavior into the behaviors folder
 
 ## 📱 Mobile
@@ -121,8 +124,17 @@ click the button to 🔙 exit edit mode
 
 📦.zip version
 - download or use an application to manage files in the phone, I recommend this [RS Gestore File - Explorer EX](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager&hl=it&gl=US)
-- go to /Android/data/com.mojang.minecraftpe/files/games/com.mojang/ (ANDROID & AMAZON FIRE OS)
-- go to /On My iPhone/Minecraft/games/com.mojang/ (APPLE IOS )
+- (ANDROID & AMAZON FIRE OS) go to 
+ ```bash
+/Android/data/com.mojang.minecraftpe/files/games/com.mojang/
+```
+
+- (APPLE IOS ) go to
+
+ ```bash
+/On My iPhone/Minecraft/games/com.mojang/
+```
+
 - pull the texture into the resources folder instead the behavior into the behaviors folder
 
 ## 🕹️ Console (PS4/PS5/Switch/Xbox and other)
