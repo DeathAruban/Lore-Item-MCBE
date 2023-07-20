@@ -1,7 +1,6 @@
 <p align="center">
      <a href="https://mcpedl.com/floating-text-addon-2/">
 		<picture>
-			<source srcset="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" media="(prefers-color-scheme: dark)">
 			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
 		</picture>
 	</a><br>
@@ -21,11 +20,7 @@ Before using the component disable Sneak Toggle from the settings,
 otherwise it could create problems in using the addon.
 Go to settings/touch/sneak toggle 
 <p align="center">
-     <a>
-		<picture>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" loading="eager" />
-		</picture>
-	</a><br>
+    <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/settings_off.png" loading="eager" />
 </p>
 
 
