@@ -23,7 +23,7 @@ Item Lore + allows you to change the name and lore of your minecraft bedrock edi
 - Italiano (Italia)
 - Español (España)
 - Français (France)
-- if you find errors or your language is missing, send me a message, if you provide me with a correct translation I will add credits for support 🤝
+if you find errors or your language is missing, send me a message, if you provide me with a correct translation I will add credits for support 🤝
 
 # Warning
 Before using the component disable Sneak Toggle from the settings,
