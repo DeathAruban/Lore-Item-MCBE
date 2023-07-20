@@ -1,8 +1,6 @@
 <p align="center">
      <a href="https://mcpedl.com/floating-text-addon-2/">
-		<picture>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
-		</picture>
+		<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
 	</a><br>
 	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.12)</b>
 </p>
@@ -37,21 +35,14 @@ Go to settings/touch/sneak toggle
 
 # Check if in the world, server or realm, these settings are active
 <p align="center">
-     <a>
-		<picture>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/add_on_creators.png" loading="eager" />
-		</picture>
-	</a><br>
+ <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/add_on_creators.png" loading="eager" />
 </p>
 
 # How does it work
 ## Through the give command or in the creative you can find 2 lore items, one admin and one vanilla
+
 <p align="center">
-     <a>
-		<picture>
-			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/tools.png" loading="eager" />
-		</picture>
-	</a><br>
+ <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/tools.png" loading="eager" />
 </p>
 
 ## Admin
