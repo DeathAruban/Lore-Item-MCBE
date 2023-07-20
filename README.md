@@ -7,7 +7,6 @@
 	</a><br>
 	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.12)</b>
 </p>
-## Warning
 <p align="center">
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/latest/total?sort=semver"></a>
@@ -17,6 +16,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
 </p>
 
+## Warning
 <p align="center">
      <a>
 		<picture>
