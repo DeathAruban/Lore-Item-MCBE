@@ -101,6 +101,38 @@ click the button to 🔙 exit edit mode
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
 - 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=hUQVg2-KCas&t=53s)
 
+# How to install
+
+## Pc
+.mcaddon version
+
+- Download the lore_item.mcaddon version
+- click on it to open and it will automatically insert it into the game
+
+.zip version
+- go to %userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## Mobile
+
+.mcaddon version
+- Download the lore_item.mcaddon version
+- click on it to open and it will automatically insert it into the game
+
+.zip version
+- download or use an application to manage files in the phone, I recommend this [RS Gestore File - Explorer EX](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager&hl=it&gl=US)
+- go to /Android/data/com.mojang.minecraftpe/files/games/com.mojang/ (ANDROID & AMAZON FIRE OS)
+- go to /On My iPhone/Minecraft/games/com.mojang/ (APPLE IOS )
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+
+## Console (PS4/PS5/Switch/Xbox and other)
+
+.zip version
+
+- create dedicated bedrock realm or server
+- pull the texture into the resources folder instead the behavior into the behaviors folder (Realm or Server)
+- you can't put it directly in the console, the manufacturer things don't allow to import external files, it is possible only in case you have made a modification of your console
+
 # Thank you for choosing this component and to appreciate how it works
 
 
