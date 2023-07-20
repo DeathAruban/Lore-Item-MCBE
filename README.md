@@ -38,7 +38,16 @@ Go to settings/touch/sneak toggle
 | 1.18.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 | 1.17.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |  
 | 1.16.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
-| < 1.15.x | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| < 1.15.x | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+
+# Check if in the world, server or realm, these settings are active
+<p align="center">
+     <a>
+		<picture>
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/add_on_creators.png" loading="eager" />
+		</picture>
+	</a><br>
+</p>
 
 # How does it work
 ## Lore Item+ 
