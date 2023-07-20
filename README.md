@@ -47,4 +47,10 @@ how to activate custom lore item, just run in chat
 ```bash
  /tag @s add Admin
 ```
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
