@@ -17,9 +17,9 @@
 </p>
 
 # Warning
-Before using the component disable Sneak Toggle from the settings
-otherwise it could create problems in using the addon
-go to settings/touch/sneak toggle 
+Before using the component disable Sneak Toggle from the settings,
+otherwise it could create problems in using the addon.
+Go to settings/touch/sneak toggle 
 <p align="center">
      <a>
 		<picture>
