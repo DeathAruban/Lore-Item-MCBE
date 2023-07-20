@@ -86,13 +86,13 @@ Go to settings/touch/sneak toggle
 - 📖 Rules
 - ⭐ Credits
 
-## To enable edit mode click the pencil button, you will be notified by a sound and a message that edit mode has been enabled.
+## To enable edit mode click the pencil button, you will be notified by a 🎶 sound and a 📩 message that edit mode has been enabled.
 
 ## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_1.png" loading="eager" />
 
 ## To modify an object you must take it to the main inventory in one of the nine slots, once done press the button to crouch
-On the right side you can enter the name of the item and its lore, once you have completed you can click on the confirmation button.
+On the right side you can enter the name of the item and its lore, once you have completed you can click on the ✅ confirmation button.
 If you use the vanilla item remember that every time you modify an item you pay 2XP.
 to send the text down you can use two options, -n or press the key twice to wrap the text.
 you can obviously use the color customization use § and then the color that corresponds, complete guide on this link : [Click](https://www.digminecraft.com/lists/color_list_pc.php)
@@ -103,7 +103,7 @@ you can obviously use the color customization use § and then the color that cor
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_2.png" loading="eager" />
 
 ## To exit edit mode right click or hold down the screen the object with which you started the admin or vanilla ui
-click the button to exit edit mode
+click the button to 🔙 exit edit mode
 
 ## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_3.png" loading="eager" />
