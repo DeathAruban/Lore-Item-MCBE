@@ -30,18 +30,16 @@ Go to settings/touch/sneak toggle
 </p>
 
 
+# Check if the version or where you are using the addon is compatible
 
-
-## Support for minecraft base worlds
-
-| World MCBE | Supported   |
-| ------- | ------------------   |  
-| 1.20.x   |:white_check_mark: | 
-| 1.19.80   |:x: |   
-| 1.18.x   | :x:  | 
-| 1.17.x   |  :x: |
-| 1.16.x   | :x:  |
-| < 1.15.x   | :x: |
+| Supported | World | Realms |Server Dedicated | Custom servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
+| ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |  
+| 1.20.x   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.19.80  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |    
+| 1.18.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| 1.17.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |  
+| 1.16.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| < 1.15.x | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 
 # How does it work
 ## Lore Item+ 
