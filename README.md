@@ -50,10 +50,36 @@ Go to settings/touch/sneak toggle
 </p>
 
 # How does it work
-## Lore Item+ 
-how to activate custom lore item, just run in chat
+## Through the give command or in the creative you can find 2 lore items, one admin and one vanilla
+<p align="center">
+     <a>
+		<picture>
+			<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/tools.png" loading="eager" />
+		</picture>
+	</a><br>
+</p>
+##Admin
+- supports 10,000 words
+- indestructible
+- He has no ability to break blocks
+- you must have the admin tag to use it :
 
 ```bash
  /tag @s add Admin
 ```
+
+
+##Vanilla
+- supports 100 words
+- Maximum durability of a netherite pickaxe
+- it can destroy almost all blocks at a good speed
+- It is possible to apply enchants, but only those of the pickaxe
+- you must have XP to use it
+- you can earn by killing mobs, using furnaces or if you have permission use this command :
+
+```bash
+ /xp 2L @s
+```
+
+
 
