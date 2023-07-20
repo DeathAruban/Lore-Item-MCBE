@@ -138,7 +138,8 @@ click the button to 🔙 exit edit mode
 📦.zip version
 - create dedicated bedrock realm or server
 - pull the texture into the resources folder instead the behavior into the behaviors folder (Realm or Server)
-- you can't put it directly in the console, the manufacturer things don't allow to import external files, it is possible only in case you have made a modification of your console
+- enter the crime or the server and you will find your component,remember to enable the settings necessary for operation listed before
+- ⛔you can't put it directly in the console, the manufacturer things don't allow to import external files, it is possible only in case you have made a modification of your console
 
 ## For more info visit my discord or watch the video guide on my channel
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
