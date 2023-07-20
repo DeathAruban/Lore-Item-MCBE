@@ -16,7 +16,10 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
 </p>
 
-## Warning
+# Warning
+Before using the component disable Sneak Toggle from the settings
+otherwise it could create problems in using the addon
+go to settings/touch/sneak toggle 
 <p align="center">
      <a>
 		<picture>
