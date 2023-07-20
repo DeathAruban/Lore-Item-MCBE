@@ -81,21 +81,28 @@ Go to settings/touch/sneak toggle
  /xp 2L @s
 ```
 
-## To use item right click or hold down on the screen, A similar ui will appear ,find three options :
+## To use item right click or hold down on the screen, find three options :
 - Edit
 - Rules
 - Credits
 
 ## To enable edit mode click the pencil button, you will be notified by a sound and a message that edit mode has been enabled.
 
+## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_1.png" loading="eager" />
 
-##To modify an object you must take it to the main inventory in one of the nine slots, once done press the button to crouch
-on the right side you can enter the name of the item and its lore, once you have completed you can click on the confirmation button
+## To modify an object you must take it to the main inventory in one of the nine slots, once done press the button to crouch
+On the right side you can enter the name of the item and its lore, once you have completed you can click on the confirmation button.
+If you use the vanilla item remember that every time you modify an item you pay 2XP.
 
-##a similar ui should appear
+## a similar ui should appear
 
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_2.png" loading="eager" />
+
+## To exit edit mode right click or hold down the screen the object with which you started the admin or vanilla ui
+click the button to exit edit mode
+
+## a similar ui should appear
 <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/ui_3.png" loading="eager" />
 
 
