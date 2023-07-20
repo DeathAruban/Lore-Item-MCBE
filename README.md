@@ -17,12 +17,12 @@
 Item Lore + allows you to change the name and lore of your minecraft bedrock edition items, through small gestures, attention the addon does not change the nbt of the object, but only the description, it does not add ✨ effects or 🔮 enchants of any kind, at least for now 🤔.
 
 ## Language support 🌍
-- en_US English (United States)
-- en_GB English (United Kingdom)
-- de_DE Deutsch (Deutschland)
-- it_IT Italiano (Italia)
-- es_ES Español (España)
-- fr_FR Français (France)
+- English (United States)
+- English (United Kingdom)
+- Deutsch (Deutschland)
+- Italiano (Italia)
+- Español (España)
+- Français (France)
 - if you find errors or your language is missing, send me a message, if you provide me with a correct translation I will add credits for support 🤝
 
 # Warning
