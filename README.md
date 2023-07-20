@@ -101,6 +101,8 @@ click the button to 🔙 exit edit mode
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
 - 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=hUQVg2-KCas&t=53s)
 
+# Thank you for choosing this component and to appreciate how it works
+
 
 
 
