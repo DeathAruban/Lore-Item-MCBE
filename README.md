@@ -99,6 +99,21 @@ click the button to 🔙 exit edit mode
 
 # How to install
 
+<details>
+<summary>## 🖥️ Pc </summary>
+<br>
+📁.mcaddon version
+- Download the lore_item.mcaddon version
+- click on it to open and it will automatically insert it into the game
+- 
+📦.zip version
+- go to 
+ ```bash
+%userprofile%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\
+```
+- pull the texture into the resources folder instead the behavior into the behaviors folder
+</details>
+
 ## 🖥️ Pc 
 
 📁.mcaddon version
@@ -148,7 +163,7 @@ click the button to 🔙 exit edit mode
 ## Thank you for choosing this component and to appreciate how it works 😄
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>## 🖥️ Pc </summary>
 <br>
 This is how you dropdown.
 </details>
