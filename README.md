@@ -2,7 +2,7 @@
      <a href="https://mcpedl.com/floating-text-addon-2/">
 		<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
 	</a><br>
-	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.30)</b>
+	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.40)</b>
 </p>
 <p align="center">
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
