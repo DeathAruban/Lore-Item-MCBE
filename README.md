@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://github.com/DeathAruban/Lore-Item-MCBE">
-		<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/lore_item+.png" loading="eager" />
+		<img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/Lore_Item_MCBE.png" loading="eager" />
 	</a><br>
 	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.60)</b>
 </p>
