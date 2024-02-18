@@ -7,8 +7,7 @@
 <p align="center">
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/latest/total?sort=semver"></a>
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/-xR-FUy7Jjk?style=social">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeathAruban/Lore-Item-MCBE">
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/zqqUH1B8k0I?style=social">
 <img alt="PingPong status" src="https://img.shields.io/pingpong/status/sp_7b7ce509b36c47ee9b20d041d018dc0a">
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Floating-Text">
 </p>
