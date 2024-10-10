@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.lore_item_book",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root_item",
+					"pivot": [0, 0, 0],
+					"binding": "q.item_slot_to_bone_name(c.item_slot)",
+					"cubes": [
+						{"origin": [-5, 0, -5], "size": [10, 1, 11], "uv": [0, 12]},
+						{"origin": [-5, 2, -5], "size": [10, 1, 11], "uv": [0, 0]},
+						{"origin": [-4, 3.2, -4], "size": [8, 0, 9], "uv": [22, 0]},
+						{"origin": [4, 1, -5], "size": [1, 1, 11], "uv": [27, 24]},
+						{"origin": [-4.5, 1, -4.5], "size": [9, 1, 10], "uv": [0, 24]}
+					]
+				}
+			]
+		}
+	]
+}

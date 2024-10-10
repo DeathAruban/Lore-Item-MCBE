@@ -1,0 +1,42 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:lore_item_book"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ABD",
+			"ABC",
+			"ABE"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:leather",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:paper",
+				"data": 0
+			},
+			"C": {
+				"item": "minecraft:amethyst_shard",
+				"data": 0
+			},
+			"D": {
+				"item": "minecraft:red_dye",
+				"data": 0
+			},
+			"E": {
+				"item": "minecraft:yellow_dye",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "da:lore_item_book",
+			"count": 1
+		}
+	}
+}

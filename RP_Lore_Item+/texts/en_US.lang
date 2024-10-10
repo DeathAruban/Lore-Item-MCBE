@@ -1,0 +1,14 @@
+item.da:lore_item_book=§bLore Book
+item.da:lore_item_book_admin=§dLore Book Admin
+
+tile.da:lore_anvil_acacia.name=Anvil Lore Acacia
+tile.da:lore_anvil_bamboo.name=Anvil Lore Bamboo
+tile.da:lore_anvil_birch.name=Anvil Lore Birch
+tile.da:lore_anvil_cherry.name=Anvil Lore Cherry
+tile.da:lore_anvil_crimson.name=Anvil Lore Crimson
+tile.da:lore_anvil_dark_oak.name=Anvil Lore Dark Oak
+tile.da:lore_anvil_jungle.name=Anvil Lore Jungle
+tile.da:lore_anvil_mangrove.name=Anvil Lore Mangrove
+tile.da:lore_anvil_oak.name=Anvil Lore Oak
+tile.da:lore_anvil_spruce.name=Anvil Lore Spruce
+tile.da:lore_anvil_warped.name=Anvil Lore Warped

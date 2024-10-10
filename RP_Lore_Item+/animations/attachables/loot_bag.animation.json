@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.lore_item_book.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [61.29115, 43.69215, -40.8171],
+					"position": [2.1, 18.4, 2.8]
+				}
+			}
+		},
+		"animation.lore_item_book.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [-7.48247, -0.85481, -2.34941],
+					"position": [0.4, 20.8, -4.5],
+					"scale": 0.7
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Lore Item+",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"lore_anvil_acacia": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_acacia"
+		},
+		"lore_anvil_bamboo": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_bamboo"
+		},
+		"lore_anvil_birch": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_birch"
+		},
+		"lore_anvil_cherry": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_cherry"
+		},
+		"lore_anvil_crimson": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_crimson"
+		},
+		"lore_anvil_dark_oak": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_dark_oak"
+		},
+		"lore_anvil_jungle": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_jungle"
+		},
+		"lore_anvil_mangrove": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_mangrove"
+		},
+		"lore_anvil_oak": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_oak"
+		},
+		"lore_anvil_spruce": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_spruce"
+		},
+		"lore_anvil_warped": {
+			"textures": "arucube/lore_item/resources/blocks/lore_anvil_warped"
+		}
+	}
+}
