@@ -11,7 +11,7 @@
 <br>
 <a href="https://discord.gg/NKy9A9RAe8"><img src="https://img.shields.io/discord/935017716350320670?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
 <a href="https://github.com//DeathAruban/Lore-Item-MCBE/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/total?label=downloads%40total"></a>
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/?v=zqqUH1B8k0I&t=1sstyle=social">
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/zqqUH1B8k0Istyle=social">
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
 </p>
 
