@@ -5,11 +5,14 @@
 	<b>A highly customisable, Addon Lore Item+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.21.41)</b>
 </p>
 <p align="center">
-	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
-	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/latest/total?sort=semver"></a>
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/hUQVg2-KCas?style=social">
+<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Lore-Item-MCBE?label=release&sort=semver"></a>
+<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/latest/total?sort=semver"></a>
 <img alt="PingPong status" src="https://img.shields.io/pingpong/status/sp_7b7ce509b36c47ee9b20d041d018dc0a">
-<img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Floating-Text">
+<br>
+<a href="https://discord.gg/NKy9A9RAe8"><img src="https://img.shields.io/discord/935017716350320670?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
+<a href="https://github.com//DeathAruban/Lore-Item-MCBE/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DeathAruban/Lore-Item-MCBE/total?label=downloads%40total"></a>
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/axPOtFdQQwc?style=social">
+<img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Lore-Item-MCBE">
 </p>
 
 # Description
