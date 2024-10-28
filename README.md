@@ -38,10 +38,6 @@ Item Lore + allows you to change the name and lore of your minecraft bedrock edi
 | 1.20.62   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 
-# Check if in the world, server or realm, these settings are active
-<p align="center">
- <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/add_on_creators.png" loading="eager" />
-</p>
 
 # How does it work
 ## Through the give command or in the creative you can find 2 lore items, one admin and one vanilla
